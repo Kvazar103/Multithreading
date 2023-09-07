@@ -1,4 +1,4 @@
-package ThreadCreation.Main;
+package lesson1_ThreadCreation.Main;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {

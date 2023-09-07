@@ -1,4 +1,4 @@
-package Volatile;
+package lesson3_Volatile;
 
 public class Main {
     public static volatile boolean running = true;

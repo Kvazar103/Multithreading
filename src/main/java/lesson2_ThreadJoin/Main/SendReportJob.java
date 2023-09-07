@@ -1,4 +1,4 @@
-package ThreadJoin.Main;
+package lesson2_ThreadJoin.Main;
 
 public class SendReportJob extends Thread{
 
